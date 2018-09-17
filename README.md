@@ -1,4 +1,5 @@
 # ModernArt-clock
+A Great looking
 Real time clock  using an arduino nano an oled display and DS3232 RTC Module.
 
 created by Tejas S may 2018 Arduino nano
