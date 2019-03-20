@@ -1,4 +1,4 @@
-//created by Tejas S may 2018 Arduino nano
+//created by Tejas S may 2018(date of initial creation) Arduino nano
 
 // this is a project where i make a digital RTC clock using an oled screen and ds3231 
 // i have used the U8g library for he oled display
