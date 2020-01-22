@@ -30,4 +30,4 @@ left button to pin d3 and ground
 right button to pin d2 and ground
  oled screen and DS3231 To respective I2C Pins
 
-THESE HAVE BEEN SUCESSFULLY ADDED CHECK OUT E-CLOCKED32 !!!!
+## THESE HAVE BEEN SUCESSFULLY ADDED CHECK OUT E-CLOCKED32 !!!!
